@@ -1,6 +1,6 @@
 <?php
 
-class Vparser {
+class KeyValueParser {
    private $file;
    private $result;
 
